@@ -1,5 +1,5 @@
 function App() {
-  return <div>Init Setting</div>;
+  return <div></div>;
 }
 
 export default App;
